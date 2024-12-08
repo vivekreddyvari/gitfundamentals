@@ -1,0 +1,27 @@
+what is git repo?
+
+git repo = directory containing files and sub-directories and git storage
+
+Files { 
+  funding.doc,
+  report.md
+}
+
+Sub_directory:
+- data
+
+Git Storage
+. git
+
+Final look directory structure:
+
+git_repo
+|_data
+funding.doc
+report.md
+.git
+
+
+Commands
+
+git init mental-health-workspace
